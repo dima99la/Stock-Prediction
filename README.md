@@ -7,14 +7,7 @@ This project aims to predict the future stock prices of NVIDIA (NVDA) by leverag
 - [Project Overview](#project-overview)
 - [Motivation](#motivation)
 - [Methodology](#methodology)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models Used](#models-used)
-- [Results](#results)
-- [Applications](#applications)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Project Overview
 
 Financial markets are complex and influenced by a wide range of factors, making accurate stock price prediction a challenging task. This project leverages machine learning techniques to model and predict stock prices, providing insights into the performance of different algorithms in this domain.
