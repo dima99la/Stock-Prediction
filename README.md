@@ -23,7 +23,7 @@ The project also aims to provide a learning resource for those interested in app
 ## Methodology
 
 ### Data Collection
-The project uses historical stock price data for NVIDIA (NVDA), obtained from Yahoo Finance. The data includes daily stock prices from January 1, 2023, onwards, along with additional features such as moving averages, RSI (Relative Strength Index), Bollinger Bands, MACD (Moving Average Convergence Divergence), and trading volume.
+The project uses historical stock price data for NVIDIA (NVDA), obtained from Yahoo Finance. The data includes daily stock prices, along with additional features such as moving averages, RSI (Relative Strength Index), Bollinger Bands, MACD (Moving Average Convergence Divergence), and trading volume.
 
 ### Feature Engineering
 Several technical indicators are calculated from the raw stock price data to serve as features for the machine learning models. These indicators are commonly used by traders to identify trends, momentum, and potential reversal points in the market.
